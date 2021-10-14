@@ -1,4 +1,6 @@
-[
+{
+  "sites":
+  [
   {
     "name": "Shibuya",
     "description": "El famoso cruce de Shibuya es sin duda una de las imágenes más icónicas de Tokio.",
@@ -21,6 +23,7 @@
     "name": "Akihabara",
     "description": "¡Atención frikis! Akihabara se ha ganado a pulso el título de capital mundial de los frikis.",
     "punctuation": "43",
-    "image":"akihabara"
+    "image":"akihabara" 
   }
 ]
+}
